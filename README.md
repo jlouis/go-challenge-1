@@ -1,5 +1,6 @@
 # Reference
-This is part of a series of montly Go challenges from which this is the first one.
+
+This is part of a series of monthly Go challenges from which this is the first one.
 For further reference look at http://golang-challenge.com
 
 # How to compile/install/use

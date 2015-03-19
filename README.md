@@ -1,3 +1,8 @@
+# Reference
+
+This is part of a series of monthly Go challenges from which this is the first one.
+For further reference look at http://golang-challenge.com
+
 # How to compile/install/use
 
 I decided to make it simple to compile so I avoid anyone having to install build tools and so on. Go has these tools built-in, but Erlangs approach is slightly different.
